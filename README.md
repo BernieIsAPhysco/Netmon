@@ -16,7 +16,7 @@ A simple, terminal-based network monitor that shows:
 
 ## 🧰 Setup
 ```bash
-git clone <your repo>
+git clone https://github.com/BernieIsAPhysco/Netmon.git
 cd netmon
 pip install -r requirements.txt
 python main.py
